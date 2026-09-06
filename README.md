@@ -304,9 +304,14 @@ Minha formação em Administração e Finanças complementa minha atuação téc
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardoguaracidasilvacruz15&show_icons=true&theme=github_dark&hide_border=true" />
+### 💻 Desenvolvimento em constante evolução
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoguaracidasilvacruz15&layout=compact&theme=github_dark&hide_border=true" />
+Projetos focados em **Engenharia de Software, Full Stack, Backend, Segurança e Arquitetura**.
+
+<br>
+
+![GitHub followers](https://img.shields.io/github/followers/leonardoguaracidasilvacruz15?style=for-the-badge&logo=github)
+![GitHub User's stars](https://img.shields.io/github/stars/leonardoguaracidasilvacruz15?style=for-the-badge&logo=github)
 
 </div>
 
