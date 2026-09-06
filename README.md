@@ -7,7 +7,7 @@ Possuo um perfil altamente analítico, combinando competências de desenvolvimen
 ---
 
 ## 🚀 Sobre Mim
-* 🎓 **Formação:** Graduado em Administração e em Engenharia de Software,  pós-graduado em Desenvolvimento Full Stack, Cloud Computing e Ciência de Dados.
+* 🎓 **Formação:** Graduado em Administração de Empresas e em Engenharia de Software,  pós-graduado em Desenvolvimento Full Stack, Cloud Computing e Ciência de Dados.
 * 💼 **Estratégia & Finanças:** MBAs focados em Administração, Contabilidade, Finanças, Auditoria e Controladoria.
 * 🎯 **Objetivo:** Buscar minha primeira oportunidade profissional integrada a equipes dinâmicas nas áreas de desenvolvimento, sistemas ou processos.
 
