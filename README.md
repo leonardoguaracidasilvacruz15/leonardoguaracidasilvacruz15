@@ -48,6 +48,6 @@ Possuo um perfil altamente analítico, combinando competências de desenvolvimen
 ---
 
 ## 📫 Vamos nos conectar?
-* 💼 **LinkedIn:** linkedin.com/leonardoguaraci
+* 💼 **LinkedIn:** https://www.linkedin.com/in/leonardoguaraci/
 * ✉️ **E-mail:** leonardoguaracidasilvacruz@gmail.com
 * 📍 **Localização:** Duque de Caxias - RJ
