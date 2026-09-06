@@ -2,23 +2,42 @@
 
 Sou **Engenheiro de Software** e **Administrador de Empresas**, especializado em unir tecnologia, gestão e finanças para criar soluções robustas e automações eficientes. 
 
-Atualmente, transito entre o desenvolvimento de sistemas web modernos e a criação de estratégias automatizadas para o mercado financeiro.
+Possuo um perfil altamente analítico, combinando competências de desenvolvimento full stack, ciência de dados e inteligência corporativa para resolver problemas complexos.
 
 ---
 
 ## 🚀 Sobre Mim
-* 🎓 **Formação:** Graduado em Administração, graduando em Engenharia de Software (Dez/2026) e pós-graduado em Desenvolvimento Full Stack, Cloud Computing e Ciência de Dados.
-* 💼 **Estratégia & Gestão:** Ampla bagagem em matemática financeira, modelagem de dados e processos administrativos estruturados.
-* 🎯 **Objetivo:** Atuar no desenvolvimento de sistemas complexos, aplicações web e rotinas que integrem tecnologia e inteligência de negócios.
+* 🎓 **Formação:** Graduado em Administração e em Engenharia de Software,  pós-graduado em Desenvolvimento Full Stack, Cloud Computing e Ciência de Dados.
+* 💼 **Estratégia & Finanças:** MBAs focados em Administração, Contabilidade, Finanças, Auditoria e Controladoria.
+* 🎯 **Objetivo:** Buscar minha primeira oportunidade profissional integrada a equipes dinâmicas nas áreas de desenvolvimento, sistemas ou processos.
 
 ---
 
-## 🛠️ Principais Tecnologias e Habilidades
+## 🛠️ Tecnologias e Competências
 
-* **Linguagens:** TypeScript, JavaScript, Python, C++, C#, MQL5, SQL
-* **Web & Frontend:** React, Next.js, Node.js, Tailwind CSS
-* **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Redis
-* **Infraestrutura & DevOps:** Docker, Git, GitHub Actions, CI/CD
+### 💻 Linguagens de Programação
+* Python | JavaScript | TypeScript | HTML | CSS
+* C | C++ | C# | Java | PHP
+* Go (Golang) | Rust | Ruby | R
+* Princípios SOLID
+
+### 🌐 Frameworks & Tecnologias Web
+* **Backend & Mobile:** Node.js | React Native | Flutter | .NET Core / .NET (C#) | Spring Boot (Java)
+* **Frontend:** React | Angular | Vue.js | Tailwind CSS | Bootstrap
+
+### 🔌 APIs e Protocolos
+* REST / RESTful APIs | GraphQL | SOAP | JSON | Webhooks
+
+### 🗄️ Bancos de Dados
+* **SQL:** MySQL | PostgreSQL
+* **NoSQL:** MongoDB
+
+### ⚙️ Infraestrutura, DevOps & Metodologias
+* Docker | Git | GitHub
+* Metodologias Ágeis (Scrum / Kanban)
+
+### 📊 Finanças e Gestão
+* Matemática Financeira | Modelagem de Dados | Rotinas Administrativas
 
 ---
 
@@ -29,6 +48,6 @@ Atualmente, transito entre o desenvolvimento de sistemas web modernos e a criaç
 ---
 
 ## 📫 Vamos nos conectar?
-* 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-* ✉️ **E-mail:** [leonardoguaracidasilvacruz@gmail.com](mailto:leonardoguaracidasilvacruz@gmail.com)
+* 💼 **LinkedIn:** linkedin.com/leonardoguaraci
+* ✉️ **E-mail:** leonardoguaracidasilvacruz@gmail.com
 * 📍 **Localização:** Duque de Caxias - RJ
