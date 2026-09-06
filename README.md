@@ -2,39 +2,22 @@
 
 Sou um desenvolvedor focado em criar soluções eficientes, transitando desde sistemas web modernos até automações de estratégias financeiras complexas.
 
+---
+
 ## 🛠️ Tecnologias e Habilidades
 
-### Desenvolvimento Web e Frontend
-<p align="left">
-  <img src="https://shields.io" alt="Next.js" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="TailwindCSS" />
-</p>
-
-### Banco de Dados e Infraestrutura
-<p align="left">
-  <img src="https://shields.io" alt="PostgreSQL" />
-</p>
-
-### Automação & Trading Quantitativo
-<p align="left">
-  <img src="https://shields.io" alt="MQL5" />
-</p>
+* **Desenvolvimento Web & Frontend:** Next.js | React | TypeScript | Tailwind CSS
+* **Banco de Dados & Infraestrutura:** PostgreSQL
+* **Automação & Trading Quantitativo:** MQL5 (Expert Advisors)
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do Leonardo" />
-</p>
-<p align="center">
-  <img src="https://vercel.app" alt="Linguagens mais usadas" />
-</p>
+## 💻 Meus Projetos Principais
+* **cida:** Sistema web de agendamento para serviços de manicure desenvolvido com Next.js, React, TypeScript, Tailwind CSS e PostgreSQL.
+* **Fimathe-EA:** Expert Advisor em MQL5 para automação de estratégia baseada na técnica Fimathe/PCM.
 
 ---
 
 ## 📫 Como me encontrar
-* **LinkedIn:** [Adicione seu link aqui](https://linkedin.com)
+* **LinkedIn:** [Clique aqui para acessar meu LinkedIn](https://linkedin.com)
 * **E-mail:** seu.email@exemplo.com
