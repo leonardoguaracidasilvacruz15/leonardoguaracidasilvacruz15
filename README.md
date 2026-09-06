@@ -35,55 +35,55 @@ Minha evolução profissional é baseada em projetos progressivamente mais compl
 
 Tecnologias utilizadas com maior foco nos meus projetos atuais:
 
+### ☕ Backend
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-Security-4B5563?style=for-the-badge)
 
 </div>
 
-### ☕ Backend
-
-- Java
-- Spring Boot
-- Spring Security
-- JPA / Hibernate
-- REST / RESTful APIs
-- JWT
-- BCrypt
-
 ### ⚛️ Frontend
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- HTML
-- CSS
-- Tailwind CSS
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</div>
 
 ### 🗄️ Banco de Dados
 
-- PostgreSQL
-- SQL
-- Modelagem de Dados
+<div align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-374151?style=for-the-badge)
+
+</div>
 
 ### ⚙️ Desenvolvimento
 
-- Git
-- GitHub
-- APIs
-- JSON
-- Princípios SOLID
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-009688?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-Princípios-7C3AED?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -93,40 +93,60 @@ Tecnologias e conceitos com os quais já tive contato através de estudos, proje
 
 ### 💻 Linguagens
 
-- Python
-- C
-- C++
-- C#
-- PHP
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
 
 ### 🌐 Backend & Web
 
-- Node.js
-- .NET / .NET Core
-- Bootstrap
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</div>
 
 ### 🗄️ Dados
 
-- MySQL
-- MongoDB
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
 
 ### ⚙️ Infraestrutura & Metodologias
 
-- Docker
-- Scrum
-- Kanban
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+</div>
 
 ### 📊 Gestão, Dados & Finanças
 
-- Matemática Financeira
-- Modelagem de Dados
-- Ciência de Dados
-- Rotinas Administrativas
-- Administração
-- Finanças
-- Contabilidade
-- Auditoria
-- Controladoria
+<div align="center">
+
+![Matemática Financeira](https://img.shields.io/badge/Matemática_Financeira-1F6F43?style=for-the-badge)
+![Modelagem de Dados](https://img.shields.io/badge/Modelagem_de_Dados-374151?style=for-the-badge)
+![Ciência de Dados](https://img.shields.io/badge/Ciência_de_Dados-2563EB?style=for-the-badge)
+![Administração](https://img.shields.io/badge/Administração-34495E?style=for-the-badge)
+![Finanças](https://img.shields.io/badge/Finanças-198754?style=for-the-badge)
+![Contabilidade](https://img.shields.io/badge/Contabilidade-2C3E50?style=for-the-badge)
+![Auditoria](https://img.shields.io/badge/Auditoria-6C757D?style=for-the-badge)
+![Controladoria](https://img.shields.io/badge/Controladoria-495057?style=for-the-badge)
+![Rotinas Administrativas](https://img.shields.io/badge/Rotinas_Administrativas-5C636A?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -136,35 +156,55 @@ Tecnologias que fazem parte da minha evolução e dos próximos projetos:
 
 ### 💻 Linguagens
 
-- Go (Golang)
-- Rust
-- Ruby
-- R
+<div align="center">
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</div>
 
 ### 🌐 Frontend
 
-- Angular
-- Vue.js
+<div align="center">
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+</div>
 
 ### 📱 Mobile
 
-- Flutter
-- React Native
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+</div>
 
 ### 🔌 APIs & Comunicação
 
-- GraphQL
-- SOAP
-- Webhooks
+<div align="center">
+
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SOAP](https://img.shields.io/badge/SOAP-005571?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-2088FF?style=for-the-badge&logo=webhook&logoColor=white)
+
+</div>
 
 ### ☁️ Infraestrutura & Engenharia
 
-- CI/CD
-- Cloud Computing
-- Arquiteturas distribuídas
-- Mensageria
-- Cache
-- Observabilidade
+<div align="center">
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Arquiteturas Distribuídas](https://img.shields.io/badge/Arquiteturas_Distribuídas-6F42C1?style=for-the-badge)
+![Mensageria](https://img.shields.io/badge/Mensageria-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Cache](https://img.shields.io/badge/Cache-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Observabilidade](https://img.shields.io/badge/Observabilidade-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
 
 ---
 
@@ -262,23 +302,24 @@ Busco compreender:
 
 Nos projetos atuais e futuros, busco desenvolver experiência prática progressiva em:
 
-- Autenticação e autorização
-- Controle de acesso
-- JWT
-- Spring Security
-- BCrypt
-- Validação
-- Tratamento de erros
-- Proteção de APIs
-- Auditoria
-- Transações
-- Segurança de banco de dados
-- Testes
-- Debugging
-- Logs
-- Docker
-- CI/CD
-- Observabilidade
+<div align="center">
+
+![Autenticação](https://img.shields.io/badge/Autenticação-1F6FEB?style=for-the-badge)
+![Autorização](https://img.shields.io/badge/Autorização-8957E5?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-Security-4B5563?style=for-the-badge)
+![Validação](https://img.shields.io/badge/Validação-2EA043?style=for-the-badge)
+![APIs](https://img.shields.io/badge/Proteção_de_APIs-009688?style=for-the-badge)
+![Auditoria](https://img.shields.io/badge/Auditoria-6C757D?style=for-the-badge)
+![Transações](https://img.shields.io/badge/Transações-4169E1?style=for-the-badge)
+![Testes](https://img.shields.io/badge/Testes-25A162?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-B7178C?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Observabilidade](https://img.shields.io/badge/Observabilidade-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+</div>
 
 ---
 
@@ -297,23 +338,6 @@ A meta é transformar conhecimento técnico em **autonomia para analisar problem
 Busco minha oportunidade na área de **Desenvolvimento de Software / Engenharia de Software**, onde possa aplicar minha formação multidisciplinar e continuar evoluindo através de problemas reais.
 
 Minha formação em Administração e Finanças complementa minha atuação técnica, permitindo analisar sistemas não apenas pelo código, mas também pelas **regras de negócio, processos, dados e necessidades dos usuários**.
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-### 💻 Desenvolvimento em constante evolução
-
-Projetos focados em **Engenharia de Software, Full Stack, Backend, Segurança e Arquitetura**.
-
-<br>
-
-![GitHub followers](https://img.shields.io/github/followers/leonardoguaracidasilvacruz15?style=for-the-badge&logo=github)
-![GitHub User's stars](https://img.shields.io/github/stars/leonardoguaracidasilvacruz15?style=for-the-badge&logo=github)
-
-</div>
 
 ---
 
