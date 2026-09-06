@@ -4,27 +4,34 @@ Sou um desenvolvedor focado em criar soluções eficientes, transitando desde si
 
 ## 🛠️ Tecnologias e Habilidades
 
-### Web Development & Frontend
-![Next.js](https://shields.io)
-![React](https://shields.io)
-![TypeScript](https://shields.io)
-![TailwindCSS](https://shields.io)
+### Desenvolvimento Web e Frontend
+<p align="left">
+  <img src="https://shields.io" alt="Next.js" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="TailwindCSS" />
+</p>
 
-### Banco de Dados & Infraestrutura
-![PostgreSQL](https://shields.io)
+### Banco de Dados e Infraestrutura
+<p align="left">
+  <img src="https://shields.io" alt="PostgreSQL" />
+</p>
 
 ### Automação & Trading Quantitativo
-![MQL5](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="MQL5" />
+</p>
 
 ---
 
 ## 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
   <img src="https://vercel.app" alt="Estatísticas do Leonardo" />
-  <br><br>
+</p>
+<p align="center">
   <img src="https://vercel.app" alt="Linguagens mais usadas" />
-</div>
+</p>
 
 ---
 
