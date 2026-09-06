@@ -1,53 +1,81 @@
 # Olá, eu sou o Leonardo Guaraci! 👋
 
-Sou **Engenheiro de Software** e **Administrador de Empresas**, especializado em unir tecnologia, gestão e finanças para criar soluções robustas e automações eficientes. 
+### 💻 Engenheiro de Software | Full Stack Developer | Java • Spring Boot • React • Next.js • TypeScript
 
-Possuo um perfil altamente analítico, combinando competências de desenvolvimento full stack, ciência de dados e inteligência corporativa para resolver problemas complexos.
+Sou **Engenheiro de Software e Administrador de Empresas**, com formação multidisciplinar em tecnologia, gestão, finanças e ciência de dados.
+
+Desenvolvo aplicações completas com foco em **arquitetura, regras de negócio, segurança, APIs REST, bancos de dados e experiência do usuário**. Minha abordagem é transformar problemas de negócio em sistemas organizados, seguros, testáveis e preparados para evolução.
+
+Atualmente, concentro meus projetos em **Java + Spring Boot no backend** e **React + Next.js + TypeScript no frontend**, trabalhando progressivamente com práticas utilizadas em ambientes profissionais de desenvolvimento.
 
 ---
 
 ## 🚀 Sobre Mim
-* 🎓 **Formação:** Graduado em Administração de Empresas e em Engenharia de Software,  pós-graduado em Desenvolvimento Full Stack, Cloud Computing e Ciência de Dados.
-* 💼 **Estratégia & Finanças:** MBAs focados em Administração, Contabilidade, Finanças, Auditoria e Controladoria.
-* 🎯 **Objetivo:** Buscar minha primeira oportunidade profissional integrada a equipes dinâmicas nas áreas de desenvolvimento, sistemas ou processos.
+
+- 🎓 **Formação:** Administração de Empresas e Engenharia de Software, com pós-graduações em Desenvolvimento Full Stack, Cloud Computing e Ciência de Dados.
+- 🧠 **Perfil:** visão analítica combinando desenvolvimento de software, processos, gestão e finanças.
+- 🏗️ **Engenharia:** arquitetura em camadas, separação de responsabilidades, SOLID, APIs REST e modelagem de dados.
+- 🔐 **Segurança:** autenticação, autorização, JWT, BCrypt, controle de acesso por roles, validações e proteção de APIs.
+- 🗄️ **Dados:** PostgreSQL, MySQL, MongoDB, SQL, modelagem e persistência.
+- 🧪 **Qualidade:** validação, tratamento de erros, debugging, testes e evolução contínua do código.
+- 🎯 **Objetivo:** atuar profissionalmente no desenvolvimento de software, contribuindo na construção e evolução de sistemas reais.
 
 ---
 
-## 🛠️ Tecnologias e Competências
+## 🛠️ Stack Principal
 
-### 💻 Linguagens de Programação
-* Python | JavaScript | TypeScript | HTML | CSS
-* C | C++ | C# | Java | PHP
-* Go (Golang) | Rust | Ruby | R
-* Princípios SOLID
+### ☕ Backend
+`Java` • `Spring Boot` • `Spring Security` • `REST APIs` • `JPA/Hibernate` • `JWT`
 
-### 🌐 Frameworks & Tecnologias Web
-* **Backend & Mobile:** Node.js | React Native | Flutter | .NET Core / .NET (C#) | Spring Boot (Java)
-* **Frontend:** React | Angular | Vue.js | Tailwind CSS | Bootstrap
+### ⚛️ Frontend
+`React` • `Next.js` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `HTML` • `CSS`
 
-### 🔌 APIs e Protocolos
-* REST / RESTful APIs | GraphQL | SOAP | JSON | Webhooks
+### 🗄️ Banco de Dados
+`PostgreSQL` • `MySQL` • `MongoDB` • `SQL`
 
-### 🗄️ Bancos de Dados
-* **SQL:** MySQL | PostgreSQL
-* **NoSQL:** MongoDB
+### ⚙️ Engenharia & DevOps
+`Git` • `GitHub` • `Docker` • `CI/CD` • `SOLID` • `Scrum` • `Kanban`
 
-### ⚙️ Infraestrutura, DevOps & Metodologias
-* Docker | Git | GitHub
-* Metodologias Ágeis (Scrum / Kanban)
-
-### 📊 Finanças e Gestão
-* Matemática Financeira | Modelagem de Dados | Rotinas Administrativas
+### 📚 Tecnologias em evolução
+`Python` • `C# / .NET` • `C` • `C++` • `Go` • `Rust` • `PHP` • `Ruby` • `Angular` • `Vue.js` • `Flutter`
 
 ---
 
-## 💻 Meus Projetos em Destaque
-* **cida:** Sistema web de agendamento para serviços de manicure desenvolvido com Next.js, React, TypeScript, Tailwind CSS e PostgreSQL.
-* **Fimathe-EA:** Expert Advisor (robô de investimento) em MQL5 focado em automação de estratégias financeiras baseadas na técnica Fimathe/PCM.
+## 🏗️ Projetos em Destaque
+
+### 🚚 NEXORA Logistics
+Plataforma empresarial de logística desenvolvida para praticar arquitetura profissional de aplicações Full Stack.
+
+**Principais conceitos:**
+- Java + Spring Boot
+- React + Next.js + TypeScript
+- PostgreSQL
+- Spring Security
+- JWT e controle de acesso por roles
+- Autenticação em múltiplas etapas
+- APIs REST
+- Regras de negócio
+- Validação e tratamento de erros
+- Arquitetura organizada em camadas
+
+### 💅 CIDA
+Sistema Full Stack de gerenciamento e agendamento de serviços, com áreas para clientes e administração.
+
+### 📈 Expert Advisor MQL5
+Sistema automatizado para MetaTrader 5, desenvolvido com regras de negociação, gerenciamento de risco e automação de operações.
 
 ---
 
-## 📫 Vamos nos conectar?
-* 💼 **LinkedIn:** https://www.linkedin.com/in/leonardoguaraci/
-* ✉️ **E-mail:** leonardoguaracidasilvacruz@gmail.com
-* 📍 **Localização:** Duque de Caxias - RJ
+## 🧭 Minha forma de desenvolver
+
+> **Entender o problema → Planejar → Modelar → Implementar → Testar → Tentar quebrar → Corrigir → Evoluir**
+
+Não busco apenas fazer uma funcionalidade funcionar. Meu objetivo é entender **por que ela existe, onde pertence na arquitetura, quais regras precisa respeitar e como pode ser mantida e evoluída com segurança.**
+
+---
+
+## 🎯 Em evolução constante
+
+Cada projeto é utilizado como um laboratório de engenharia de software para aumentar progressivamente a complexidade, autonomia e qualidade das minhas decisões técnicas.
+
+**Construir. Entender. Testar. Melhorar. Repetir. 🚀**
