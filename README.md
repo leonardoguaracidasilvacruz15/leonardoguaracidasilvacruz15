@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Leonardo! 👋
 
-<!--
-**leonardoguaracidasilvacruz15/leonardoguaracidasilvacruz15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em criar soluções eficientes, transitando desde sistemas web modernos até automações de estratégias financeiras complexas.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Web Development & Frontend
+![Next.js](https://shields.io)
+![React](https://shields.io)
+![TypeScript](https://shields.io)
+![TailwindCSS](https://shields.io)
+
+### Banco de Dados & Infraestrutura
+![PostgreSQL](https://shields.io)
+
+### Automação & Trading Quantitativo
+![MQL5](https://shields.io)
+
+---
+
+## 📊 Minhas Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://vercel.app" alt="Estatísticas do Leonardo" />
+  <br><br>
+  <img src="https://vercel.app" alt="Linguagens mais usadas" />
+</div>
+
+---
+
+## 📫 Como me encontrar
+* **LinkedIn:** [Adicione seu link aqui](https://linkedin.com)
+* **E-mail:** seu.email@exemplo.com
